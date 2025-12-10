@@ -1,0 +1,8 @@
+- pkg:pypi/azure-eventhubs-client@0.91
+- pkg:pypi/azure-eventhubs-client@0.93
+- pkg:pypi/azure-eventhubs-client@0.94
+- pkg:pypi/azure-eventhubs-client@0.95
+- pkg:pypi/azure-eventhubs-client@0.96
+- pkg:pypi/azure-eventhubs-client@0.97
+- pkg:pypi/azure-eventhubs-client@0.98
+- pkg:pypi/azure-eventhubs-client@0.98.1

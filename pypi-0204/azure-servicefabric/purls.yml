@@ -1,0 +1,16 @@
+- pkg:pypi/azure-servicefabric@5.6.130
+- pkg:pypi/azure-servicefabric@6.0
+- pkg:pypi/azure-servicefabric@6.0.0rc1
+- pkg:pypi/azure-servicefabric@6.0.1
+- pkg:pypi/azure-servicefabric@6.0.2
+- pkg:pypi/azure-servicefabric@6.1.2.9
+- pkg:pypi/azure-servicefabric@6.2.0.0
+- pkg:pypi/azure-servicefabric@6.3.0.0
+- pkg:pypi/azure-servicefabric@6.4.0.0
+- pkg:pypi/azure-servicefabric@6.5.0.0
+- pkg:pypi/azure-servicefabric@6.6.0.0
+- pkg:pypi/azure-servicefabric@7.0.0.0
+- pkg:pypi/azure-servicefabric@7.1.0.45
+- pkg:pypi/azure-servicefabric@7.2.0.46
+- pkg:pypi/azure-servicefabric@8.0.0.0
+- pkg:pypi/azure-servicefabric@8.2.0.0
