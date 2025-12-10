@@ -1,0 +1,5 @@
+- pkg:pypi/buildout.dumppickedversions@0.1
+- pkg:pypi/buildout.dumppickedversions@0.2
+- pkg:pypi/buildout.dumppickedversions@0.3
+- pkg:pypi/buildout.dumppickedversions@0.4
+- pkg:pypi/buildout.dumppickedversions@0.5
