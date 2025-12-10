@@ -1,0 +1,7 @@
+- pkg:pypi/aws-ci-cd-fargate@5.0.0
+- pkg:pypi/aws-ci-cd-fargate@5.0.1
+- pkg:pypi/aws-ci-cd-fargate@6.0.0
+- pkg:pypi/aws-ci-cd-fargate@7.0.0
+- pkg:pypi/aws-ci-cd-fargate@7.1.0
+- pkg:pypi/aws-ci-cd-fargate@7.2.0
+- pkg:pypi/aws-ci-cd-fargate@7.3.0
