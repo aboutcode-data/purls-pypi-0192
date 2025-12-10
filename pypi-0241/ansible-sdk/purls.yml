@@ -1,0 +1,4 @@
+- pkg:pypi/ansible-sdk@0.0.1
+- pkg:pypi/ansible-sdk@0.0.1a1
+- pkg:pypi/ansible-sdk@0.0.2
+- pkg:pypi/ansible-sdk@1.0.0
