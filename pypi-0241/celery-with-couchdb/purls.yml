@@ -1,0 +1,4 @@
+- pkg:pypi/celery-with-couchdb@2.4
+- pkg:pypi/celery-with-couchdb@2.4.1
+- pkg:pypi/celery-with-couchdb@2.5
+- pkg:pypi/celery-with-couchdb@3.0

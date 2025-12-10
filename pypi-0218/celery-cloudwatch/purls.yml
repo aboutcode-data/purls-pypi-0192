@@ -1,0 +1,5 @@
+- pkg:pypi/celery-cloudwatch@1.0.0a
+- pkg:pypi/celery-cloudwatch@1.1.0
+- pkg:pypi/celery-cloudwatch@1.1.0.post0
+- pkg:pypi/celery-cloudwatch@1.1.1
+- pkg:pypi/celery-cloudwatch@2.0.0

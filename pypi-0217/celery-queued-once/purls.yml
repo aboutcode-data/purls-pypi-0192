@@ -1,0 +1,2 @@
+- pkg:pypi/celery-queued-once@0.1
+- pkg:pypi/celery-queued-once@0.2
