@@ -1,0 +1,2 @@
+- pkg:pypi/apache-airflow-provider-rabbitmq@0.0.1
+- pkg:pypi/apache-airflow-provider-rabbitmq@2.0.0
