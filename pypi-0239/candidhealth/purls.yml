@@ -98,6 +98,16 @@
 - pkg:pypi/candidhealth@1.15.0
 - pkg:pypi/candidhealth@1.16.0
 - pkg:pypi/candidhealth@1.17.0
+- pkg:pypi/candidhealth@1.17.1
+- pkg:pypi/candidhealth@1.17.2
+- pkg:pypi/candidhealth@1.17.3
+- pkg:pypi/candidhealth@1.17.4
+- pkg:pypi/candidhealth@1.18.0
+- pkg:pypi/candidhealth@1.18.1
+- pkg:pypi/candidhealth@1.19.0
+- pkg:pypi/candidhealth@1.19.1
+- pkg:pypi/candidhealth@1.20.0
+- pkg:pypi/candidhealth@1.20.1
 - pkg:pypi/candidhealth@1.3.0
 - pkg:pypi/candidhealth@1.3.1
 - pkg:pypi/candidhealth@1.4.0

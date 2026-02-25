@@ -26,6 +26,7 @@
 - pkg:pypi/cansible@6.0.0rc13
 - pkg:pypi/cansible@6.0.0rc14
 - pkg:pypi/cansible@6.0.0rc15
+- pkg:pypi/cansible@6.0.0rc16
 - pkg:pypi/cansible@6.0.0rc3
 - pkg:pypi/cansible@6.0.0rc4
 - pkg:pypi/cansible@6.0.0rc5
