@@ -111,3 +111,4 @@
 - pkg:pypi/ascend-deployer@6.0rc3
 - pkg:pypi/ascend-deployer@7.0rc1
 - pkg:pypi/ascend-deployer@7.1rc1
+- pkg:pypi/ascend-deployer@7.2rc1

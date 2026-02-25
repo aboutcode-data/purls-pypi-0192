@@ -76,3 +76,5 @@
 - pkg:pypi/artesian-sdk@4.2.2.dev19
 - pkg:pypi/artesian-sdk@4.2.2.dev2
 - pkg:pypi/artesian-sdk@4.2.3.dev2
+- pkg:pypi/artesian-sdk@4.2.3.dev4
+- pkg:pypi/artesian-sdk@4.2.3.dev6

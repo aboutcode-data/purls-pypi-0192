@@ -14,3 +14,5 @@
 - pkg:pypi/ascend-sdk@1.7.1
 - pkg:pypi/ascend-sdk@1.7.2
 - pkg:pypi/ascend-sdk@1.8.0
+- pkg:pypi/ascend-sdk@1.8.1
+- pkg:pypi/ascend-sdk@1.8.2
