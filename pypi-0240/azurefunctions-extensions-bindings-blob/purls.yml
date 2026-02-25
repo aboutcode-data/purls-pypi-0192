@@ -6,3 +6,4 @@
 - pkg:pypi/azurefunctions-extensions-bindings-blob@1.1.0
 - pkg:pypi/azurefunctions-extensions-bindings-blob@1.1.0.dev0
 - pkg:pypi/azurefunctions-extensions-bindings-blob@1.1.1
+- pkg:pypi/azurefunctions-extensions-bindings-blob@1.1.2

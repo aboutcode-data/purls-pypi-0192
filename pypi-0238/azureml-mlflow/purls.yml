@@ -101,6 +101,7 @@
 - pkg:pypi/azureml-mlflow@1.60.0.post1
 - pkg:pypi/azureml-mlflow@1.61.0
 - pkg:pypi/azureml-mlflow@1.61.0.post1
+- pkg:pypi/azureml-mlflow@1.62.0
 - pkg:pypi/azureml-mlflow@1.7.0
 - pkg:pypi/azureml-mlflow@1.8.0
 - pkg:pypi/azureml-mlflow@1.9.0

@@ -50,6 +50,8 @@
 - pkg:pypi/b2sdk@2.1.0
 - pkg:pypi/b2sdk@2.10.0
 - pkg:pypi/b2sdk@2.10.1
+- pkg:pypi/b2sdk@2.10.2
+- pkg:pypi/b2sdk@2.10.3
 - pkg:pypi/b2sdk@2.2.0
 - pkg:pypi/b2sdk@2.2.1
 - pkg:pypi/b2sdk@2.3.0

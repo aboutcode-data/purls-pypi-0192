@@ -54,6 +54,7 @@
 - pkg:pypi/axis@63
 - pkg:pypi/axis@64
 - pkg:pypi/axis@65
+- pkg:pypi/axis@66
 - pkg:pypi/axis@7
 - pkg:pypi/axis@8
 - pkg:pypi/axis@9
