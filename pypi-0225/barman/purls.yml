@@ -67,6 +67,7 @@
 - pkg:pypi/barman@3.16.0
 - pkg:pypi/barman@3.16.1
 - pkg:pypi/barman@3.16.2
+- pkg:pypi/barman@3.17.0
 - pkg:pypi/barman@3.2.0
 - pkg:pypi/barman@3.3.0
 - pkg:pypi/barman@3.4.0
