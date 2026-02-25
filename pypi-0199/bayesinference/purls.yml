@@ -35,6 +35,7 @@
 - pkg:pypi/bayesinference@0.0.41
 - pkg:pypi/bayesinference@0.0.42
 - pkg:pypi/bayesinference@0.0.44
+- pkg:pypi/bayesinference@0.0.45
 - pkg:pypi/bayesinference@0.0.5
 - pkg:pypi/bayesinference@0.0.6
 - pkg:pypi/bayesinference@0.0.7

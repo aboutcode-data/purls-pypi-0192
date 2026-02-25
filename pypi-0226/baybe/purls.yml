@@ -12,6 +12,8 @@
 - pkg:pypi/baybe@0.13.2
 - pkg:pypi/baybe@0.14.0
 - pkg:pypi/baybe@0.14.1
+- pkg:pypi/baybe@0.14.2
+- pkg:pypi/baybe@0.14.3
 - pkg:pypi/baybe@0.7.0
 - pkg:pypi/baybe@0.7.0a1
 - pkg:pypi/baybe@0.7.1
