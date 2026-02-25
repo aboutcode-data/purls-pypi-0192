@@ -69,3 +69,5 @@
 - pkg:pypi/ansys-mapdl-core@0.71.0
 - pkg:pypi/ansys-mapdl-core@0.71.1
 - pkg:pypi/ansys-mapdl-core@0.71.2
+- pkg:pypi/ansys-mapdl-core@0.71.3
+- pkg:pypi/ansys-mapdl-core@0.72.0

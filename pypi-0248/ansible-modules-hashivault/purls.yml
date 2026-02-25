@@ -137,3 +137,5 @@
 - pkg:pypi/ansible-modules-hashivault@5.2.1
 - pkg:pypi/ansible-modules-hashivault@5.3.0
 - pkg:pypi/ansible-modules-hashivault@5.4.0
+- pkg:pypi/ansible-modules-hashivault@5.5.0
+- pkg:pypi/ansible-modules-hashivault@5.6.0
