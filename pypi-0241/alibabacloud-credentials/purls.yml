@@ -26,6 +26,9 @@
 - pkg:pypi/alibabacloud-credentials@1.0.3
 - pkg:pypi/alibabacloud-credentials@1.0.4
 - pkg:pypi/alibabacloud-credentials@1.0.4rc1
+- pkg:pypi/alibabacloud-credentials@1.0.5
+- pkg:pypi/alibabacloud-credentials@1.0.6
+- pkg:pypi/alibabacloud-credentials@1.0.7
 - pkg:pypi/alibabacloud-credentials@1.0rc1
 - pkg:pypi/alibabacloud-credentials@1.0rc2
 - pkg:pypi/alibabacloud-credentials@1.0rc3
