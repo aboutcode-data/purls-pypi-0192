@@ -58,3 +58,4 @@
 - pkg:pypi/bitcoinlib@0.7.4
 - pkg:pypi/bitcoinlib@0.7.5
 - pkg:pypi/bitcoinlib@0.7.6
+- pkg:pypi/bitcoinlib@0.7.7

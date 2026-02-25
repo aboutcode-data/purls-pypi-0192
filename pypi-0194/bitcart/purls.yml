@@ -60,6 +60,8 @@
 - pkg:pypi/bitcart@1.18.0.0
 - pkg:pypi/bitcart@1.19.0.0
 - pkg:pypi/bitcart@1.19.1.0
+- pkg:pypi/bitcart@1.19.1.1
+- pkg:pypi/bitcart@1.19.1.2
 - pkg:pypi/bitcart@1.2.0.0
 - pkg:pypi/bitcart@1.2.1.0
 - pkg:pypi/bitcart@1.3.0.0

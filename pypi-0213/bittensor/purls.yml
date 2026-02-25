@@ -28,6 +28,8 @@
 - pkg:pypi/bittensor@10.0.0rc3
 - pkg:pypi/bittensor@10.0.0rc4
 - pkg:pypi/bittensor@10.0.0rc5
+- pkg:pypi/bittensor@10.0.1
+- pkg:pypi/bittensor@10.1.0
 - pkg:pypi/bittensor@2.0.0
 - pkg:pypi/bittensor@2.0.1
 - pkg:pypi/bittensor@2.0.2
