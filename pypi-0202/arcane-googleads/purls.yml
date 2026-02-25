@@ -30,6 +30,8 @@
 - pkg:pypi/arcane-googleads@3.16.1
 - pkg:pypi/arcane-googleads@3.16.2
 - pkg:pypi/arcane-googleads@3.16.3
+- pkg:pypi/arcane-googleads@3.17.0
+- pkg:pypi/arcane-googleads@3.17.1
 - pkg:pypi/arcane-googleads@3.2.0
 - pkg:pypi/arcane-googleads@3.2.1
 - pkg:pypi/arcane-googleads@3.2.2

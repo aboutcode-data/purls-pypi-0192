@@ -37,6 +37,7 @@
 - pkg:pypi/apsw@3.50.4.0
 - pkg:pypi/apsw@3.51.0.0
 - pkg:pypi/apsw@3.51.1.0
+- pkg:pypi/apsw@3.51.2.0
 - pkg:pypi/apsw@3.8.10.1-r1
 - pkg:pypi/apsw@3.8.11.1-r1
 - pkg:pypi/apsw@3.8.2-r1
