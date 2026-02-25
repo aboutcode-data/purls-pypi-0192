@@ -77,3 +77,8 @@
 - pkg:pypi/asmrmanager@2.6.8
 - pkg:pypi/asmrmanager@2.6.9
 - pkg:pypi/asmrmanager@2.7.0
+- pkg:pypi/asmrmanager@2.7.1
+- pkg:pypi/asmrmanager@2.7.2
+- pkg:pypi/asmrmanager@2.8.0
+- pkg:pypi/asmrmanager@2.8.1
+- pkg:pypi/asmrmanager@2.9.0

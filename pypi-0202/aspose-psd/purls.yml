@@ -14,6 +14,7 @@
 - pkg:pypi/aspose-psd@25.1.0
 - pkg:pypi/aspose-psd@25.10.0
 - pkg:pypi/aspose-psd@25.11.0
+- pkg:pypi/aspose-psd@25.12.0
 - pkg:pypi/aspose-psd@25.2.0
 - pkg:pypi/aspose-psd@25.3.0
 - pkg:pypi/aspose-psd@25.4.0
@@ -22,3 +23,4 @@
 - pkg:pypi/aspose-psd@25.7.0
 - pkg:pypi/aspose-psd@25.8.0
 - pkg:pypi/aspose-psd@25.9.0
+- pkg:pypi/aspose-psd@26.1.0
