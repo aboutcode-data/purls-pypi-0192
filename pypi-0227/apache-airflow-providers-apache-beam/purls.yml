@@ -104,4 +104,7 @@
 - pkg:pypi/apache-airflow-providers-apache-beam@6.1.7rc1
 - pkg:pypi/apache-airflow-providers-apache-beam@6.2.0
 - pkg:pypi/apache-airflow-providers-apache-beam@6.2.0rc1
+- pkg:pypi/apache-airflow-providers-apache-beam@6.2.1
 - pkg:pypi/apache-airflow-providers-apache-beam@6.2.1rc1
+- pkg:pypi/apache-airflow-providers-apache-beam@6.2.2
+- pkg:pypi/apache-airflow-providers-apache-beam@6.2.2rc1

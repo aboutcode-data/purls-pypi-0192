@@ -32,6 +32,9 @@
 - pkg:pypi/ape-safe@0.8.19
 - pkg:pypi/ape-safe@0.8.2
 - pkg:pypi/ape-safe@0.8.20
+- pkg:pypi/ape-safe@0.8.21
+- pkg:pypi/ape-safe@0.8.22
+- pkg:pypi/ape-safe@0.8.23
 - pkg:pypi/ape-safe@0.8.3
 - pkg:pypi/ape-safe@0.8.4
 - pkg:pypi/ape-safe@0.8.5

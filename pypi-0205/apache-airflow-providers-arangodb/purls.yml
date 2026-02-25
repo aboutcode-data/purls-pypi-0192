@@ -48,4 +48,7 @@
 - pkg:pypi/apache-airflow-providers-arangodb@2.8.4rc1
 - pkg:pypi/apache-airflow-providers-arangodb@2.9.0
 - pkg:pypi/apache-airflow-providers-arangodb@2.9.0rc1
+- pkg:pypi/apache-airflow-providers-arangodb@2.9.1
 - pkg:pypi/apache-airflow-providers-arangodb@2.9.1rc1
+- pkg:pypi/apache-airflow-providers-arangodb@2.9.2
+- pkg:pypi/apache-airflow-providers-arangodb@2.9.2rc1
