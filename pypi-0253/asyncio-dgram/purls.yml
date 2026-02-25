@@ -13,3 +13,4 @@
 - pkg:pypi/asyncio-dgram@2.1.1
 - pkg:pypi/asyncio-dgram@2.1.2
 - pkg:pypi/asyncio-dgram@2.2.0
+- pkg:pypi/asyncio-dgram@3.0.0
