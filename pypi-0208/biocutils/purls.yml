@@ -17,3 +17,10 @@
 - pkg:pypi/biocutils@0.2.1
 - pkg:pypi/biocutils@0.2.2
 - pkg:pypi/biocutils@0.2.3
+- pkg:pypi/biocutils@0.3.0
+- pkg:pypi/biocutils@0.3.1
+- pkg:pypi/biocutils@0.3.1.dev0
+- pkg:pypi/biocutils@0.3.2
+- pkg:pypi/biocutils@0.3.2.dev1
+- pkg:pypi/biocutils@0.3.3
+- pkg:pypi/biocutils@0.3.4
