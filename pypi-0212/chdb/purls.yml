@@ -25,4 +25,11 @@
 - pkg:pypi/chdb@3.7.0
 - pkg:pypi/chdb@3.7.1
 - pkg:pypi/chdb@3.7.2
+- pkg:pypi/chdb@4.0.0
 - pkg:pypi/chdb@4.0.0b2
+- pkg:pypi/chdb@4.0.0b3
+- pkg:pypi/chdb@4.0.0b4
+- pkg:pypi/chdb@4.0.0b5
+- pkg:pypi/chdb@4.0.0b6
+- pkg:pypi/chdb@4.0.1
+- pkg:pypi/chdb@4.0.2
