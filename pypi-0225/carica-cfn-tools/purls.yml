@@ -27,6 +27,8 @@
 - pkg:pypi/carica-cfn-tools@1.26
 - pkg:pypi/carica-cfn-tools@1.27
 - pkg:pypi/carica-cfn-tools@1.28
+- pkg:pypi/carica-cfn-tools@1.29
+- pkg:pypi/carica-cfn-tools@1.3
 - pkg:pypi/carica-cfn-tools@1.4
 - pkg:pypi/carica-cfn-tools@1.5
 - pkg:pypi/carica-cfn-tools@1.6
