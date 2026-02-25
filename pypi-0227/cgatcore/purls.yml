@@ -23,7 +23,9 @@
 - pkg:pypi/cgatcore@0.6.14
 - pkg:pypi/cgatcore@0.6.15
 - pkg:pypi/cgatcore@0.6.16
+- pkg:pypi/cgatcore@0.6.19
 - pkg:pypi/cgatcore@0.6.2
+- pkg:pypi/cgatcore@0.6.20
 - pkg:pypi/cgatcore@0.6.3
 - pkg:pypi/cgatcore@0.6.4
 - pkg:pypi/cgatcore@0.6.5

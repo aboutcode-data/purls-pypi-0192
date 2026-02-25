@@ -28,6 +28,7 @@
 - pkg:pypi/chalc@13.0.2
 - pkg:pypi/chalc@14.0.0
 - pkg:pypi/chalc@14.1.0
+- pkg:pypi/chalc@14.2.0
 - pkg:pypi/chalc@2.0.0
 - pkg:pypi/chalc@3.0.0
 - pkg:pypi/chalc@3.0.1
