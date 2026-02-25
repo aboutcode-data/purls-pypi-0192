@@ -2,6 +2,7 @@
 - pkg:pypi/analogic-framework@4.1.0
 - pkg:pypi/analogic-framework@4.1.1
 - pkg:pypi/analogic-framework@4.1.10
+- pkg:pypi/analogic-framework@4.1.100
 - pkg:pypi/analogic-framework@4.1.11
 - pkg:pypi/analogic-framework@4.1.12
 - pkg:pypi/analogic-framework@4.1.13
@@ -94,3 +95,8 @@
 - pkg:pypi/analogic-framework@4.1.92
 - pkg:pypi/analogic-framework@4.1.93
 - pkg:pypi/analogic-framework@4.1.94
+- pkg:pypi/analogic-framework@4.1.95
+- pkg:pypi/analogic-framework@4.1.96
+- pkg:pypi/analogic-framework@4.1.97
+- pkg:pypi/analogic-framework@4.1.98
+- pkg:pypi/analogic-framework@4.1.99

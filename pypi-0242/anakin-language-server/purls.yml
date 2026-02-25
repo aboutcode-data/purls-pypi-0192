@@ -26,6 +26,7 @@
 - pkg:pypi/anakin-language-server@1.20
 - pkg:pypi/anakin-language-server@1.21
 - pkg:pypi/anakin-language-server@1.22
+- pkg:pypi/anakin-language-server@1.23
 - pkg:pypi/anakin-language-server@1.3
 - pkg:pypi/anakin-language-server@1.3.1
 - pkg:pypi/anakin-language-server@1.3.2
