@@ -1,0 +1,14 @@
+- pkg:pypi/cutensornet-cu11@0.0.1.dev0
+- pkg:pypi/cutensornet-cu11@0.0.1.dev1
+- pkg:pypi/cutensornet-cu11@1.1.1
+- pkg:pypi/cutensornet-cu11@2.0.0
+- pkg:pypi/cutensornet-cu11@2.1.0
+- pkg:pypi/cutensornet-cu11@2.2.0
+- pkg:pypi/cutensornet-cu11@2.2.1
+- pkg:pypi/cutensornet-cu11@2.3.0
+- pkg:pypi/cutensornet-cu11@2.4.0.post0
+- pkg:pypi/cutensornet-cu11@2.4.0.post1
+- pkg:pypi/cutensornet-cu11@2.5.0
+- pkg:pypi/cutensornet-cu11@2.6.0
+- pkg:pypi/cutensornet-cu11@2.7.0
+- pkg:pypi/cutensornet-cu11@2.8.0
