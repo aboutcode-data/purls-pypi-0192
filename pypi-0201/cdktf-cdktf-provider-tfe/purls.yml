@@ -381,6 +381,7 @@
 - pkg:pypi/cdktf-cdktf-provider-tfe@12.3.0
 - pkg:pypi/cdktf-cdktf-provider-tfe@12.4.0
 - pkg:pypi/cdktf-cdktf-provider-tfe@12.5.0
+- pkg:pypi/cdktf-cdktf-provider-tfe@12.5.1
 - pkg:pypi/cdktf-cdktf-provider-tfe@2.0.0
 - pkg:pypi/cdktf-cdktf-provider-tfe@2.0.1
 - pkg:pypi/cdktf-cdktf-provider-tfe@2.0.10

@@ -643,6 +643,7 @@
 - pkg:pypi/cdk-serverless-clamscan@2.13.44
 - pkg:pypi/cdk-serverless-clamscan@2.13.45
 - pkg:pypi/cdk-serverless-clamscan@2.13.46
+- pkg:pypi/cdk-serverless-clamscan@2.13.47
 - pkg:pypi/cdk-serverless-clamscan@2.13.5
 - pkg:pypi/cdk-serverless-clamscan@2.13.6
 - pkg:pypi/cdk-serverless-clamscan@2.13.7
