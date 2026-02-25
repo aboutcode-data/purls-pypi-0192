@@ -67,6 +67,9 @@
 - pkg:pypi/brewtils@3.29.1
 - pkg:pypi/brewtils@3.3.0
 - pkg:pypi/brewtils@3.30.0
+- pkg:pypi/brewtils@3.31.0
+- pkg:pypi/brewtils@3.31.1
+- pkg:pypi/brewtils@3.32.0rc0
 - pkg:pypi/brewtils@3.4.0
 - pkg:pypi/brewtils@3.5.0
 - pkg:pypi/brewtils@3.6.0
