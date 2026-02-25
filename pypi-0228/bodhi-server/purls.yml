@@ -5,6 +5,7 @@
 - pkg:pypi/bodhi-server@2.9.0
 - pkg:pypi/bodhi-server@25.11.1
 - pkg:pypi/bodhi-server@25.11.2
+- pkg:pypi/bodhi-server@25.11.3
 - pkg:pypi/bodhi-server@25.5.0
 - pkg:pypi/bodhi-server@25.5.1
 - pkg:pypi/bodhi-server@3.10.0
