@@ -125,6 +125,9 @@
 - pkg:pypi/bzt@1.16.44
 - pkg:pypi/bzt@1.16.45
 - pkg:pypi/bzt@1.16.46
+- pkg:pypi/bzt@1.16.47
+- pkg:pypi/bzt@1.16.48
+- pkg:pypi/bzt@1.16.49
 - pkg:pypi/bzt@1.16.5
 - pkg:pypi/bzt@1.16.6
 - pkg:pypi/bzt@1.16.7

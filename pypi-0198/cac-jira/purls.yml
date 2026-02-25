@@ -11,3 +11,6 @@
 - pkg:pypi/cac-jira@0.5.4
 - pkg:pypi/cac-jira@0.5.5
 - pkg:pypi/cac-jira@0.6.0
+- pkg:pypi/cac-jira@0.6.1
+- pkg:pypi/cac-jira@0.6.3
+- pkg:pypi/cac-jira@0.6.5
