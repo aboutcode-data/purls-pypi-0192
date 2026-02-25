@@ -35,8 +35,11 @@
 - pkg:pypi/bootgraph@1.15.0.dev28643
 - pkg:pypi/bootgraph@1.15.0.dev29472
 - pkg:pypi/bootgraph@1.15.0.dev31709
+- pkg:pypi/bootgraph@1.15.0.dev32328
 - pkg:pypi/bootgraph@1.16.0
 - pkg:pypi/bootgraph@1.17.0
+- pkg:pypi/bootgraph@1.18.0
+- pkg:pypi/bootgraph@1.18.0.dev33616
 - pkg:pypi/bootgraph@1.2.0
 - pkg:pypi/bootgraph@1.3.0
 - pkg:pypi/bootgraph@1.4.0

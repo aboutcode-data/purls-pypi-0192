@@ -71,3 +71,6 @@
 - pkg:pypi/booktest@1.0.7
 - pkg:pypi/booktest@1.0.8
 - pkg:pypi/booktest@1.0.9
+- pkg:pypi/booktest@1.1.0
+- pkg:pypi/booktest@1.1.1
+- pkg:pypi/booktest@1.1.2
