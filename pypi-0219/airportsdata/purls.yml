@@ -60,9 +60,12 @@
 - pkg:pypi/airportsdata@20240728
 - pkg:pypi/airportsdata@20240806
 - pkg:pypi/airportsdata@20241001
+- pkg:pypi/airportsdata@20250204
 - pkg:pypi/airportsdata@20250224
 - pkg:pypi/airportsdata@20250523
 - pkg:pypi/airportsdata@20250622
 - pkg:pypi/airportsdata@20250706
 - pkg:pypi/airportsdata@20250811
 - pkg:pypi/airportsdata@20250909
+- pkg:pypi/airportsdata@20260205
+- pkg:pypi/airportsdata@20260208
