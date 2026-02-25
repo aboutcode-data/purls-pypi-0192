@@ -249,6 +249,7 @@
 - pkg:pypi/arize@7.51.0
 - pkg:pypi/arize@7.51.1
 - pkg:pypi/arize@7.51.2
+- pkg:pypi/arize@7.52.0
 - pkg:pypi/arize@7.6.0
 - pkg:pypi/arize@7.6.1
 - pkg:pypi/arize@7.7.0
@@ -258,6 +259,7 @@
 - pkg:pypi/arize@7.8.0
 - pkg:pypi/arize@7.8.1
 - pkg:pypi/arize@7.9.0
+- pkg:pypi/arize@8.0.0
 - pkg:pypi/arize@8.0.0a0
 - pkg:pypi/arize@8.0.0a1
 - pkg:pypi/arize@8.0.0a10
@@ -274,6 +276,7 @@
 - pkg:pypi/arize@8.0.0a20
 - pkg:pypi/arize@8.0.0a21
 - pkg:pypi/arize@8.0.0a22
+- pkg:pypi/arize@8.0.0a23
 - pkg:pypi/arize@8.0.0a3
 - pkg:pypi/arize@8.0.0a4
 - pkg:pypi/arize@8.0.0a5
@@ -281,3 +284,14 @@
 - pkg:pypi/arize@8.0.0a7
 - pkg:pypi/arize@8.0.0a8
 - pkg:pypi/arize@8.0.0a9
+- pkg:pypi/arize@8.0.0b0
+- pkg:pypi/arize@8.0.0b1
+- pkg:pypi/arize@8.0.0b2
+- pkg:pypi/arize@8.0.0b4
+- pkg:pypi/arize@8.0.1
+- pkg:pypi/arize@8.0.2
+- pkg:pypi/arize@8.1.0
+- pkg:pypi/arize@8.2.0
+- pkg:pypi/arize@8.2.1
+- pkg:pypi/arize@8.3.0
+- pkg:pypi/arize@8.4.0

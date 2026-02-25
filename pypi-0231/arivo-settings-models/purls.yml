@@ -32,6 +32,9 @@
 - pkg:pypi/arivo-settings-models@1.6.2
 - pkg:pypi/arivo-settings-models@1.6.3
 - pkg:pypi/arivo-settings-models@1.6.4
+- pkg:pypi/arivo-settings-models@1.6.7
+- pkg:pypi/arivo-settings-models@1.7.0
+- pkg:pypi/arivo-settings-models@1.7.1
 - pkg:pypi/arivo-settings-models@2.0.0rc1
 - pkg:pypi/arivo-settings-models@2.0.0rc2
 - pkg:pypi/arivo-settings-models@2.0.0rc3
@@ -56,3 +59,6 @@
 - pkg:pypi/arivo-settings-models@2.5.0
 - pkg:pypi/arivo-settings-models@2.5.0.0.0.2
 - pkg:pypi/arivo-settings-models@2.5.1
+- pkg:pypi/arivo-settings-models@2.5.2
+- pkg:pypi/arivo-settings-models@2.6.0
+- pkg:pypi/arivo-settings-models@2.6.1

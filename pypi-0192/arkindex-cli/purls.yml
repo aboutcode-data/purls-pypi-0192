@@ -22,6 +22,7 @@
 - pkg:pypi/arkindex-cli@0.4.11
 - pkg:pypi/arkindex-cli@0.4.12
 - pkg:pypi/arkindex-cli@0.4.13
+- pkg:pypi/arkindex-cli@0.4.14
 - pkg:pypi/arkindex-cli@0.4.2
 - pkg:pypi/arkindex-cli@0.4.3
 - pkg:pypi/arkindex-cli@0.4.3rc1
